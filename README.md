@@ -4,7 +4,7 @@
 
 **数据驱动的足球 AI 预测平台 · 2026 美加墨世界杯专项分析**
 
-[🌐 在线体验](https://www.jarvis-ai-club.com) · [📊 命中历史](https://www.jarvis-ai-club.com/#/history) · [📐 方法论](https://www.jarvis-ai-club.com/#/methodology) · [👑 加入会员](https://www.jarvis-ai-club.com/#/membership)
+[🌐 在线体验](https://www.jarvis-ai-club.com) · [📊 命中历史](https://www.jarvis-ai-club.com/#/history) · [📐 方法论](https://www.jarvis-ai-club.com/#/methodology) · [👑 加入会员](https://www.jarvis-ai-club.com/#/membership) · [📄 GitHub Pages](https://jiatonglingit.github.io/jarvis-footBall/)
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Poisson](https://img.shields.io/badge/Model-Poisson-2563EB?style=flat-square)](docs/METHODOLOGY.md)

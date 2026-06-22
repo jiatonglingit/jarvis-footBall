@@ -1,0 +1,21 @@
+name: 功能建议
+description: 产品功能或文档改进建议
+title: "[建议] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    value: |
+      💡 **完整产品功能**（AI 研报、会员、世界杯预测）请通过 [官网反馈](https://www.jarvis-ai-club.com) 提交。  
+      本 Issue 模板适用于：Demo 改进、README 文档、开源方法论补充。
+  - type: textarea
+    id: problem
+    attributes:
+      label: 你想解决什么问题？
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 你的建议
+    validations:
+      required: true

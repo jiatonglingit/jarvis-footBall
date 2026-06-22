@@ -1,0 +1,29 @@
+name: Demo 脚本问题
+description: 本地 Poisson/ELO 演示脚本运行问题
+title: "[Demo] "
+labels: ["demo"]
+body:
+  - type: markdown
+    value: |
+      本仓库仅包含 **教育型 Demo**，完整产品问题请访问 [官网](https://www.jarvis-ai-club.com)。
+  - type: input
+    id: python-version
+    attributes:
+      label: Python 版本
+      placeholder: "例如 3.11.5"
+    validations:
+      required: true
+  - type: textarea
+    id: command
+    attributes:
+      label: 运行命令
+      placeholder: "python demo/predict.py --home ..."
+    validations:
+      required: true
+  - type: textarea
+    id: error
+    attributes:
+      label: 错误信息 / 实际输出
+      render: shell
+    validations:
+      required: true
