@@ -1,0 +1,48 @@
+{
+  "description": "2026 世界杯示例 ELO 数据（演示用途，非实时）",
+  "source": "参考 eloratings.net 公开评分，仅供 Demo 展示",
+  "matches": [
+    {
+      "home": "Germany",
+      "away": "Ivory Coast",
+      "elo_home": 2040,
+      "elo_away": 1830,
+      "note": "2026-06-21 · 官网命中 2-1"
+    },
+    {
+      "home": "Uruguay",
+      "away": "Morocco",
+      "elo_home": 1890,
+      "elo_away": 1920,
+      "note": "2026-06-21 · 官网命中客胜"
+    },
+    {
+      "home": "Spain",
+      "away": "Saudi Arabia",
+      "elo_home": 2080,
+      "elo_away": 1680,
+      "note": "2026-06-21 · 官网命中主胜"
+    },
+    {
+      "home": "France",
+      "away": "Senegal",
+      "elo_home": 2100,
+      "elo_away": 1850,
+      "note": "2026-06-20 · 官网命中主胜"
+    },
+    {
+      "home": "Brazil",
+      "away": "Costa Rica",
+      "elo_home": 2120,
+      "elo_away": 1720,
+      "note": "2026-06-20 · 官网命中主胜"
+    },
+    {
+      "home": "Argentina",
+      "away": "Mexico",
+      "elo_home": 2140,
+      "elo_away": 1880,
+      "note": "世界杯经典对阵"
+    }
+  ]
+}
